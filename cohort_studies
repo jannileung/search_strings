@@ -1,0 +1,72 @@
+*Cohort studies;
+*************************************************************************************************************;
+
+*Pubmed: MeSH terms OR text word (includes abstract/title/keywords);
+*............................................................................................................;
+(	Cohort Studies	[MeSH Terms]	) 
+OR
+((	cohort	[Text Word] 	) OR
+(	Follow-up	[Text Word] 	) OR
+(	follow up	[Text Word] 	) OR
+(	longitudinal	[Text Word] 	) OR
+(	prospective	[Text Word] 	) OR
+(	repeated-measure*	[Text Word] 	) OR
+(	repeated Measure*	[Text Word] 	) OR
+(	retrospective	[Text Word] 	))
+
+
+*PsycINFO (ebscohost): MeSH OR SU Subjects (Thesaurus of Psychological Index Terms) OR AB/TI/KW (abstract/title/keywords);
+*............................................................................................................;
+MA	Cohort Studies	OR
+		
+SU	Cohort Analysis	OR
+SU	Follow-up Studies	OR
+SU	Longitudinal Studies	OR
+SU	Repeated Measures	OR
+SU	Retrospective Studies	OR
+
+AB	cohort	OR
+AB	Follow-up	OR
+AB	follow up	OR
+AB	longitudinal	OR
+AB	prospective	OR
+AB	repeated-measure*	OR
+AB	repeated Measure*	OR
+AB	retrospective	OR
+TI	cohort	OR
+TI	Follow-up	OR
+TI	follow up	OR
+TI	longitudinal	OR
+TI	prospective	OR
+TI	repeated-measure*	OR
+TI	repeated Measure*	OR
+TI	retrospective	OR
+KW	cohort	OR
+KW	Follow-up	OR
+KW	follow up	OR
+KW	longitudinal	OR
+KW	prospective	OR
+KW	repeated-measure*	OR
+KW	repeated Measure*	OR
+KW	retrospective	
+
+Web of Science: Topic (TS) or Title (TI);
+*............................................................................................................;
+TS=(	"cohort"	) OR
+TS=(	"Follow-up"	) OR
+TS=(	"follow up"	) OR
+TS=(	"longitudinal"	) OR
+TS=(	"prospective"	) OR
+TS=(	"repeated-measure*"	) OR
+TS=(	"repeated Measure*"	) OR
+TS=(	"retrospective"	) OR
+TI=(	"cohort"	) OR
+TI=(	"follow-up"	) OR
+TI=(	"follow up"	) OR
+TI=(	"longitudinal"	) OR
+TI=(	"prospective"	) OR
+TI=(	"repeated-measure*"	) OR
+TI=(	"repeated Measure*"	) OR
+TI=(	"retrospective"	)
+
+
