@@ -1,0 +1,44 @@
+*Cannabis use;
+*********************************************************************************************************************;
+
+*Pubmed: Title / Abstract OR MeSH Terms;
+*....................................................................................................................;
+((cannabis[Title/Abstract]) OR
+(cannabis-related[Title/Abstract]) OR
+(marijuana[Title/Abstract]) OR
+(hashish[Title/Abstract]) OR
+(hash[Title/Abstract]) OR
+(weed[Title/Abstract])) OR
+
+((Cannabis[MeSH Terms]) OR
+(abuse, cannabis[MeSH Terms]) OR
+(Marijuana Use[MeSH Terms]))
+
+
+*EMBASE:  (title or abstract or textword) OR explode EMTREE
+*....................................................................................................................;
+*ti or ab or tw;
+"cannabis" or 
+"cannabis-related" or 
+"marijuana" or 
+"hashish" or 
+"hash" or 
+"weed"
+
+*exp;
+exp "cannabis"/ or 
+exp "cannabis addiction"/ or 
+exp "cannabis use"/ or 
+exp "cannabis smoking"/ 
+
+
+*Web of Science: Topic (TS) or Title (TI);
+*....................................................................................................................;
+(TS=("cannabis") OR TI=("cannabis") OR 
+TS=("cannabis-related") OR TI=("cannabis-related") OR 
+TS=("marijuana") OR TI=("marijuana") OR 
+TS=("hashish") OR TI=("hashish") OR 
+TS=("hash") OR TI=("hash") OR 
+TS=("weed") OR TI=("weed"))
+
+
