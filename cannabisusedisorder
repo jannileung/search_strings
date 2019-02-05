@@ -3,14 +3,19 @@
 
 *Pubmed: Title / Abstract OR MeSH Terms;
 *....................................................................................................................;
-(((cannabis[Title/Abstract]) OR
+(
+((cannabis[Title/Abstract]) OR
 (cannabis-related[Title/Abstract]) OR
 (marijuana[Title/Abstract]) OR
 (hashish[Title/Abstract]) OR
 (hash[Title/Abstract]) OR
-(weed[Title/Abstract])) AND
+(weed[Title/Abstract])) 
+
+AND
 
 ((dependence[Title/Abstract]) OR
-(use disorder[Title/Abstract]))) OR
+(use disorder[Title/Abstract]))
+) 
 
+OR
 (Marijuana Abuse[MeSH Terms]) 
