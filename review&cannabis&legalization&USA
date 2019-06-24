@@ -1,0 +1,84 @@
+(	review	[All Fields]	)
+AND			
+(	cannabis	[Text Word]	OR
+	marijuana	[Text Word]	OR
+	Cannabis	[MeSH Terms]	OR
+	Marijuana Use	[MeSH Terms]	OR
+	Medical Marijuana	[MeSH Terms]	)
+AND			
+(	legalisation	[Text Word]	OR
+	legalization	[Text Word]	OR
+	legislation	[Text Word]	OR
+	decriminalization	[Text Word]	OR
+	decriminalisation	[Text Word]	OR
+	Medical marijuana laws	[Text Word]	OR
+	Medical marijuana law	[Text Word]	OR
+	MML	[Text Word]	OR
+	MMLs	[Text Word]	OR
+	medical cannabis laws	[Text Word]	OR
+	medical cannabis laws	[Text Word]	OR
+	policy	[Text Word]	OR
+	policies	[Text Word]	OR
+	regulation	[Text Word]	OR
+	regulations	[Text Word]	OR
+	Legislation as Topic	[MeSH Terms]	OR
+	Legislation, Medical	[MeSH Terms]	OR
+	Jurisprudence	[MeSH Terms]	OR
+	Legislation, Drug	[MeSH Terms]	OR
+	Government Regulation	[MeSH Terms]	)
+AND			
+(	United States	[MeSH Terms]	OR
+	United States	[Text Word]	OR
+	US	[Text Word]	OR
+	USA	[Text Word]	OR
+	Alabama 	[Text Word]	OR
+	Alaska 	[Text Word]	OR
+	Arizona 	[Text Word]	OR
+	Arkansas 	[Text Word]	OR
+	California 	[Text Word]	OR
+	Colorado 	[Text Word]	OR
+	Connecticut 	[Text Word]	OR
+	Delaware 	[Text Word]	OR
+	District of Columbia 	[Text Word]	OR
+	Florida 	[Text Word]	OR
+	Georgia 	[Text Word]	OR
+	Hawaii 	[Text Word]	OR
+	Idaho 	[Text Word]	OR
+	Illinois 	[Text Word]	OR
+	Indiana 	[Text Word]	OR
+	Iowa 	[Text Word]	OR
+	Kansas 	[Text Word]	OR
+	Kentucky 	[Text Word]	OR
+	Louisiana 	[Text Word]	OR
+	Maine 	[Text Word]	OR
+	Maryland 	[Text Word]	OR
+	Massachusetts 	[Text Word]	OR
+	Michigan 	[Text Word]	OR
+	Minnesota 	[Text Word]	OR
+	Mississippi 	[Text Word]	OR
+	Missouri 	[Text Word]	OR
+	Montana 	[Text Word]	OR
+	Nebraska 	[Text Word]	OR
+	Nevada 	[Text Word]	OR
+	New Hampshire 	[Text Word]	OR
+	New Jersey 	[Text Word]	OR
+	New Mexico 	[Text Word]	OR
+	New York 	[Text Word]	OR
+	North Carolina 	[Text Word]	OR
+	North Dakota 	[Text Word]	OR
+	Ohio 	[Text Word]	OR
+	Oklahoma 	[Text Word]	OR
+	Oregon 	[Text Word]	OR
+	Pennsylvania 	[Text Word]	OR
+	Rhode Island 	[Text Word]	OR
+	South Carolina 	[Text Word]	OR
+	South Dakota 	[Text Word]	OR
+	Tennessee 	[Text Word]	OR
+	Texas 	[Text Word]	OR
+	Utah 	[Text Word]	OR
+	Vermont 	[Text Word]	OR
+	Virginia 	[Text Word]	OR
+	Washington 	[Text Word]	OR
+	West Virginia 	[Text Word]	OR
+	Wisconsin 	[Text Word]	OR
+	Wyoming 	[Text Word]	)
